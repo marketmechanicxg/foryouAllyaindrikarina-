@@ -14,7 +14,7 @@
 const playlist = [
   {
     id:        'song1',
-    title:     'Love Strong',
+    title:     'Love Song',
     artist:    'Adele',
     file:      'music/song1.mp3',
     cover:     'assets/music-cover/song1.jpeg',
